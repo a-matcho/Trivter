@@ -6,3 +6,5 @@ Currently the idea is to use a React.js framework to generate the tweets and do 
 ..not sure why I chose Trivia about birds, but if you think about it long enough the bad puns start taking up space in your head.
 
 GPT-3 API: https://openai.com/api/ <- Requires an account
+
+This project does not come with a key for running the OpenAI API, thus requiring your own account to generate a key.
